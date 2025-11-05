@@ -1,5 +1,14 @@
-.imagen1{
+.imagen1{  
     display: grid;
-    width: 5px;
-    height: 5px;
+    width: 20px;
+    height: 15px;
+}
+body{
+    background-color: #B0DAF1;
+}
+h1{
+    font-family: "Caprasimo", serif;
+  font-weight: 400;
+  font-style: normal;
+
 }
