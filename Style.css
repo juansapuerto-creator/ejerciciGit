@@ -3,6 +3,11 @@
     width: 20px;
     height: 15px;
 }
+h1,h2,h3,p{
+    font-size: 20px;
+}
+
+
 body{
     background-color: #B0DAF1;
 }
