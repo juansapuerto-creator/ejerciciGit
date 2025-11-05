@@ -1,19 +1,28 @@
-.imagen1{  
-    display: grid;
-    width: 20px;
-    height: 15px;
+.imagen1 {
+    /* display: grid;
+    width: 800px;
+    height: 450px; */
+    color: blueviolet;
+    font-family: "Delius", cursive;
+    font-weight: 400;
+    font-style: normal;
 }
-h1,h2,h3,p{
+
+h1,
+h2,
+h3,
+p {
     font-size: 20px;
 }
 
 
-body{
+body {
     background-color: #B0DAF1;
 }
-h1{
+
+h1 {
     font-family: "Caprasimo", serif;
-  font-weight: 400;
-  font-style: normal;
+    font-weight: 400;
+    font-style: normal;
 
 }
