@@ -26,4 +26,13 @@ h1 {
     font-style: normal;
 
 }
+.contenido{
+    max-width: 600px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 8px;
 
+}
+ h1{
+    text-align: center;
+ }
